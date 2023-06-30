@@ -9,9 +9,9 @@ Nesse projeto foi desenvolvido uma lista de comandos para conteinerizar as aplic
 
 ## Clonando o projeto
 
-1. Clone o projeto: ´git@github.com:rayandersonsousa/project-docker-todo-list.git´
-2. Entre na pasta do projeto: ´cd project-docker-todo-list´
-3. Instale as dependencias: ´npm install´
+1. Clone o projeto: `git@github.com:rayandersonsousa/project-docker-todo-list.git`
+2. Entre na pasta do projeto: `cd project-docker-todo-list`
+3. Instale as dependencias: `npm install`
 
 
 ## Tecnologias aplicadas
