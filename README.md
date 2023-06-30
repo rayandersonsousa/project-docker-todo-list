@@ -21,5 +21,5 @@ Nesse projeto foi desenvolvido uma lista de comandos para conteinerizar as aplic
 
 ## Habilidades aplicadas
 
-  - Conteinerização aplicações front-end e back-end.
+  - Conteinerizar aplicações front-end e back-end.
   - Cria uma conexão entre o back-end e o front-end.
